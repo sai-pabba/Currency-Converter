@@ -29,14 +29,11 @@ Make sure Python is installed. Then install the required package:
 ```bash
 pip install requests
 
-bash
-```
+## Usage
+
+Run the script:
+
+```bash
 python currency_converter.py
-```
- ## example
- Welcome to Currency Converter
-Enter amount to convert: 100
-From Currency (e.g., USD, INR, EUR): USD
-To Currency: INR
-100 USD = 8302.00 INR
+
 
